@@ -1,0 +1,42 @@
+@media (max-width: 1280px) {
+    .conteudo {
+        width: 100vw;
+        position: static;
+    }
+    .informacoes .descricao {
+        width: 60%;
+        text-align: center;
+        font-size: 20px;
+        line-height: 38px;
+    }
+}
+
+@media (max-width: 768px) {
+    .conteudo {
+        width: 100vw;
+        position: static;
+    }
+    .informacoes .descricao {
+        width: 60%;
+        text-align: center;
+        font-size: 20px;
+        line-height: 38px;
+    }
+}
+
+@media (max-width: 420px){
+    .conteudo {
+        width: 100vw;
+        position: static;
+    }
+    .informacoes .logo {
+        max-width: 350px;
+        margin-bottom: 40px;
+    }
+    .informacoes .descricao {
+        width: 80%;
+        text-align: center;
+        font-size: 16px;
+        line-height: 28px;
+    }
+}
